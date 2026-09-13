@@ -1,0 +1,19 @@
+plot,metric,set_code,set_name,release_date,derivative,derivative_mean,derivative_std_dev,z_score,cumulative_value
+plot_1,Distinct counter types,LEG,Legends,1994-06-01,15.0000,4.4610,3.2333,3.26,22.0000
+plot_1,Distinct counter types,ICE,Ice Age,1995-06-03,16.0000,4.4610,3.2333,3.57,43.0000
+plot_1,Distinct counter types,MIR,Mirage,1996-10-08,13.0000,4.4610,3.2333,2.64,56.0000
+plot_1,Distinct counter types,ME2,Masters Edition II,2008-09-22,16.0000,4.4610,3.2333,3.57,98.0000
+plot_1,Distinct counter types,DBL,Innistrad: Double Feature,2022-01-28,15.0000,4.4610,3.2333,3.26,149.0000
+plot_1,Distinct counter types,MH3,Modern Horizons 3,2024-06-14,13.0000,4.4610,3.2333,2.64,166.0000
+plot_2,Counter-reference cards,MRD,Mirrodin,2003-10-02,27.0000,26.9752,23.6780,0.00,584.0000
+plot_2,Counter-reference cards,IKO,Ikoria: Lair of Behemoths,2020-04-24,30.0000,26.9752,23.6780,0.13,3186.0000
+plot_2,Counter-reference cards,ONE,Phyrexia: All Will Be One,2023-02-10,117.0000,26.9752,23.6780,3.80,4880.0000
+plot_2,Counter-reference cards,WHO,Doctor Who,2023-10-13,86.0000,26.9752,23.6780,2.49,5392.0000
+plot_2,Counter-reference cards,MH3,Modern Horizons 3,2024-06-14,97.0000,26.9752,23.6780,2.96,5917.0000
+plot_2,Counter-reference cards,J25,Foundations Jumpstart,2024-11-15,125.0000,26.9752,23.6780,4.14,6321.0000
+plot_2,Counter-reference cards,TLA,Avatar: The Last Airbender,2025-11-21,82.0000,26.9752,23.6780,2.32,7011.0000
+plot_2,Counter-reference cards,MSC,Marvel Super Heroes Commander,2026-06-26,130.0000,26.9752,23.6780,4.35,7471.0000
+plot_3,Counter-card share (%),LEG,Legends,1994-06-01,0.7053,0.0343,0.1110,6.04,3.7133
+plot_3,Counter-card share (%),ICE,Ice Age,1995-06-03,0.9323,0.0343,0.1110,8.09,5.6942
+plot_3,Counter-card share (%),ALL,Alliances,1996-06-10,0.3336,0.0343,0.1110,2.70,6.4889
+plot_3,Counter-card share (%),SHM,Shadowmoor,2008-05-02,0.2634,0.0343,0.1110,2.06,6.8015

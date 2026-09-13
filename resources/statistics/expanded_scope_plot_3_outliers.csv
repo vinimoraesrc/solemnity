@@ -1,0 +1,5 @@
+plot,metric,set_code,set_name,release_date,derivative,derivative_mean,derivative_std_dev,z_score,cumulative_value
+plot_3,Counter-card share (%),LEG,Legends,1994-06-01,0.7053,0.0343,0.1110,6.04,3.7133
+plot_3,Counter-card share (%),ICE,Ice Age,1995-06-03,0.9323,0.0343,0.1110,8.09,5.6942
+plot_3,Counter-card share (%),ALL,Alliances,1996-06-10,0.3336,0.0343,0.1110,2.70,6.4889
+plot_3,Counter-card share (%),SHM,Shadowmoor,2008-05-02,0.2634,0.0343,0.1110,2.06,6.8015

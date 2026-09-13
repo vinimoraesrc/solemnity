@@ -1,0 +1,7 @@
+plot,metric,set_code,set_name,release_date,derivative,derivative_mean,derivative_std_dev,z_score,cumulative_value
+plot_1,Distinct counter types,LEG,Legends,1994-06-01,15.0000,4.4610,3.2333,3.26,22.0000
+plot_1,Distinct counter types,ICE,Ice Age,1995-06-03,16.0000,4.4610,3.2333,3.57,43.0000
+plot_1,Distinct counter types,MIR,Mirage,1996-10-08,13.0000,4.4610,3.2333,2.64,56.0000
+plot_1,Distinct counter types,ME2,Masters Edition II,2008-09-22,16.0000,4.4610,3.2333,3.57,98.0000
+plot_1,Distinct counter types,DBL,Innistrad: Double Feature,2022-01-28,15.0000,4.4610,3.2333,3.26,149.0000
+plot_1,Distinct counter types,MH3,Modern Horizons 3,2024-06-14,13.0000,4.4610,3.2333,2.64,166.0000
