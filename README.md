@@ -38,7 +38,7 @@ To give you a taste, consider what happens when you pay the Impending cost of [O
 Think back to some of the latest sets you've played, and you'll likely think of at least one card that produced or interacted with counters other than +1/+1. This is no coincidence: Magic currently has 178 types of counters, and in roughly 6.5 years, the number of cards that produce or have some sort of interaction with counters grew by 139.7%, with their presence in the card pool growing by 32.8%.
 
 <p align="center">
-  <img src="http://github.com/vinimoraesrc/solemnity/resources/plots/expanded_scope_plot_1_counter_types.svg" />
+  <img src="https://github.com/vinimoraesrc/solemnity/blob/main/plots/expanded_scope_plot_1_counter_types.svg" />
 </p>
 
 In Magic's early years, counters were used as a mechanism to help players keep track of the state of the game, and rarely had a type assigned to them. These were later errataed to contain specific types, as was the case of [All Hallow's Eve](https://scryfall.com/card/leg/88/all-hallows-eve) from the Legends set, whose counters received "Scream" as a type. The game continued to increase in scope and complexity, and with it many different types of counters were being introduced, sometimes to support but a single card: a trend which can be clearly seen in Plot 1, from Ice Age until the early 2000s. Once the game matured, bespoke counter types made way for more streamlined ones, with +1/+1 counters becoming the norm and little exploration happening outside of that. Notice the almost flat line in Plot 1 between the original Kamigawa and Lorwynn blocks.
@@ -46,11 +46,11 @@ In Magic's early years, counters were used as a mechanism to help players keep t
 From 2020 onwards, something changed in how counters were being designed. While the exact reason is unknown to me, it's possible that the growth in card text complexity (reading the card no longer explains the card), backed up by a surge in online Spelltable style play due to COVID-19, pushed counters to be seen as a solution for keeping track of game state once again. That, and Magic also started publishing more sets than anyone cares for. Looking at Plot 1, we can see that 2021 pushed the numbers over the trend line for the first time in 7 years, and the numbers continue to spike until this day.
 
 <p align="center">
-  <img src="http://github.com/vinimoraesrc/solemnity/resources/plots/expanded_scope_plot_2_counter_cards.svg" />
+  <img src="https://github.com/vinimoraesrc/solemnity/blob/main/plots/expanded_scope_plot_2_counter_cards.svg" />
 </p>
 
 <p align="center">
-  <img src="http://github.com/vinimoraesrc/solemnity/resources/plots/expanded_scope_plot_3_counter_card_share.svg" />
+  <img src="https://github.com/vinimoraesrc/solemnity/blob/main/plots/expanded_scope_plot_3_counter_card_share.svg" />
 </p>
 
 Types are not the only counter-related aspect that have seen a spike since 2020. Plots 2 and 3 show the total number of cards that either produce or interact with counters, and the percentage of these cards over the total number of released cards at a given point in time, respectively. They both show how not only counter presence in cards has been steadily increasing over the years, but also how the design inflection point of 2020 aggressively shifted the importance of counters in the game. Ikoria: Lair of Behemoths serves as a good example, as it was a set that both introduced counters representing evergreen abilities such as Lifelink and Deathtouch, and many cards that interacted with these new counters.
