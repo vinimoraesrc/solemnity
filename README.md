@@ -1,7 +1,7 @@
 # Solemnity
 
 <p align="center">
-  <img src="http://github.com/vinimoraesrc/solemnity/resources/images/hou-22-solemnity.webp" />
+  <img src="https://github.com/vinimoraesrc/solemnity/blob/main/resources/images/hou-22-solemnity.webp" />
 </p>
 
 
