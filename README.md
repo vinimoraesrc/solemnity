@@ -5,7 +5,7 @@
 </p>
 
 
-Solemnity is my favorite Magic: The Gathering Card. It's strong and unique not because it's broken or even clearly competitive, but because it warps a game that has grown to rely on a single commoditized mechanism to make up for its arguably unwarranted complexity, allowing players to find joyful hidden gems and learning more about Magic's inner workings in the process.
+Solemnity is my favorite Magic: The Gathering Card. It's strong and unique not because it's broken or even clearly competitive, but because it warps a game that has grown to rely on a commoditized mechanism to make up for its arguably unwarranted complexity, allowing players to find joyful hidden gems and learn more about Magic's inner workings in the process.
 
 I'm hoping to show you why you shouldn't sleep on it.
 
